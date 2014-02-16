@@ -1,0 +1,19 @@
+
+.content {
+background-color: red;
+}
+
+.pic {
+overflow: hidden;
+background-color: purple;
+}
+
+.gallery ul li {
+float: left;
+}
+
+img {
+width: 200px;
+}
+
+
