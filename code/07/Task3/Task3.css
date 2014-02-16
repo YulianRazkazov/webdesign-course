@@ -1,0 +1,46 @@
+.header, .footer {
+padding-left: 10px;
+height: 200px;
+background: white;
+}
+
+.header {
+color:white;
+background: silver;
+}
+
+.footer {
+color: green;
+background: white;
+}
+
+.content, .sidebar, .sidebar2{
+float: left;
+color: yellow;
+height: 400px
+}
+
+.sidebar {
+width: 20%;
+background: green;
+ }
+
+.content {
+width: 65%;
+background: blue;
+}
+
+
+.sidebar2 {
+width: 15%;
+background: purple;
+}
+
+.container {
+width: 1500px;
+height:800px;
+margin: 0 auto;
+padding: 10px;
+border: 1px solid black;
+background: white;
+}
